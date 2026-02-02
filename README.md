@@ -33,8 +33,8 @@ Software Developer focused on building scalable back-end solutions with **Java**
 
 ### 📊 GitHub Analytics
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShiroMrv&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroMrv&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 
